@@ -1,0 +1,63 @@
+octave: X11 DISPLAY environment variable not set
+octave: disabling GUI features
+**********ÉPOCA 100********************** 
+ Train loss 80.80 | Test loss 77.57 | Train acc 0.04 | Test acc 0.04
+**********ÉPOCA 200********************** 
+ Train loss 69.67 | Test loss 68.48 | Train acc 0.12 | Test acc 0.10
+**********ÉPOCA 300********************** 
+ Train loss 61.48 | Test loss 60.78 | Train acc 0.19 | Test acc 0.17
+**********ÉPOCA 400********************** 
+ Train loss 55.11 | Test loss 55.88 | Train acc 0.26 | Test acc 0.25
+**********ÉPOCA 500********************** 
+ Train loss 50.57 | Test loss 48.84 | Train acc 0.34 | Test acc 0.34
+**********ÉPOCA 600********************** 
+ Train loss 46.06 | Test loss 44.18 | Train acc 0.42 | Test acc 0.41
+**********ÉPOCA 700********************** 
+ Train loss 41.76 | Test loss 39.50 | Train acc 0.49 | Test acc 0.50
+**********ÉPOCA 800********************** 
+ Train loss 38.03 | Test loss 36.48 | Train acc 0.56 | Test acc 0.55
+**********ÉPOCA 900********************** 
+ Train loss 35.14 | Test loss 34.04 | Train acc 0.62 | Test acc 0.60
+**********ÉPOCA 1000********************** 
+ Train loss 32.44 | Test loss 33.11 | Train acc 0.67 | Test acc 0.65
+**********ÉPOCA 1100********************** 
+ Train loss 29.94 | Test loss 31.94 | Train acc 0.70 | Test acc 0.68
+**********ÉPOCA 1200********************** 
+ Train loss 28.17 | Test loss 30.82 | Train acc 0.73 | Test acc 0.69
+**********ÉPOCA 1300********************** 
+ Train loss 26.86 | Test loss 29.95 | Train acc 0.76 | Test acc 0.71
+**********ÉPOCA 1400********************** 
+ Train loss 25.72 | Test loss 28.94 | Train acc 0.78 | Test acc 0.72
+**********ÉPOCA 1500********************** 
+ Train loss 24.65 | Test loss 28.23 | Train acc 0.79 | Test acc 0.72
+**********ÉPOCA 1600********************** 
+ Train loss 23.66 | Test loss 28.32 | Train acc 0.81 | Test acc 0.73
+**********ÉPOCA 1700********************** 
+ Train loss 23.05 | Test loss 27.54 | Train acc 0.81 | Test acc 0.74
+**********ÉPOCA 1800********************** 
+ Train loss 22.44 | Test loss 27.20 | Train acc 0.82 | Test acc 0.74
+**********ÉPOCA 1900********************** 
+ Train loss 22.08 | Test loss 27.07 | Train acc 0.83 | Test acc 0.74
+**********ÉPOCA 2000********************** 
+ Train loss 21.61 | Test loss 26.65 | Train acc 0.84 | Test acc 0.74
+**********ÉPOCA 2100********************** 
+ Train loss 21.44 | Test loss 26.91 | Train acc 0.84 | Test acc 0.74
+**********ÉPOCA 2200********************** 
+ Train loss 21.33 | Test loss 27.16 | Train acc 0.85 | Test acc 0.74
+**********ÉPOCA 2300********************** 
+ Train loss 21.11 | Test loss 26.91 | Train acc 0.85 | Test acc 0.73
+**********ÉPOCA 2400********************** 
+ Train loss 20.95 | Test loss 27.42 | Train acc 0.85 | Test acc 0.73
+**********ÉPOCA 2500********************** 
+ Train loss 20.80 | Test loss 27.45 | Train acc 0.86 | Test acc 0.74
+**********ÉPOCA 2600********************** 
+ Train loss 20.57 | Test loss 27.82 | Train acc 0.86 | Test acc 0.73
+**********ÉPOCA 2700********************** 
+ Train loss 20.40 | Test loss 28.26 | Train acc 0.86 | Test acc 0.73
+**********ÉPOCA 2800********************** 
+ Train loss 20.24 | Test loss 27.97 | Train acc 0.86 | Test acc 0.73
+**********ÉPOCA 2900********************** 
+ Train loss 20.23 | Test loss 28.44 | Train acc 0.86 | Test acc 0.73
+**********ÉPOCA 3000********************** 
+ Train loss 20.08 | Test loss 28.51 | Train acc 0.87 | Test acc 0.72
+ans = W3

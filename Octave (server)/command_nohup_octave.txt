@@ -1,0 +1,1 @@
+ octave entrenamiento_4x4.m &> logfile.txt & disown $!
