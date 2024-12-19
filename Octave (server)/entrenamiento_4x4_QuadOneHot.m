@@ -1,3 +1,20 @@
+# ///////////////////////////////////////////////////////////////////////
+# This MATLAB script genereates a DL model using a MIMO 4x4 configuration
+# and the one-hot per antenna encoding strategy. It is used for the paper:
+#
+#  Ibarra-Hernández, R.F.; Castillo-Soria, F.R.; Gutiérrez, C.A.;  Del-Puerto-Flores, J.A;
+#  Acosta-Elías J., Rodríguez-Abdalá V. and Palacios-Luengas L. "Efficient 
+#  Deep Learning-Based Detection Scheme for MIMO Communication System" 
+#  Submitted to the Journal Sensors of MDPI
+# 
+#
+# License: This code is licensed under the GPLv2 license. If you in any way
+# use this code for research that results in publications, please cite our
+# paper as described above.
+#
+#   Authors: Roilhi Frajo Ibarra Hernández (roilhi.ibarra@uaslp.mx)
+#            Francisco Rubén Castillo-Soria (ruben.soria@uaslp.mx)
+# ///////////////////////////////////////////////////////////////////////
 warning('off','all');
 clear
 close all
