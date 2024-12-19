@@ -12,7 +12,7 @@ Multiple input-multiple output (MIMO) is a key enabling technology for the next 
 * Files starting with BER correspond to the calculation of __Bit Error Rate__ curves where you require to load the .mat DL detection models
 * We tested both 2x2 and 4x4 MIMO configurations and 4-QAM modulation
 * We developed 3 labeling schemes mentioned in the paper:
-    * One-hot encoding for each one of the $$M^N_t$$ transmitted symbol combinations
+    * One-hot encoding for each one of the $$M^{N_t}$$ transmitted symbol combinations
     * One-hot encoding per transmitting antenna, having a size of $$M*N_t$$ choices
     * Direct encoding of QAM symbols, having $$\log_2(M)*N_t$$ choices
 # Citation and referencing
