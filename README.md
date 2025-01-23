@@ -16,4 +16,4 @@ Multiple input-multiple output (MIMO) is a key enabling technology for the next 
     * One-hot encoding per transmitting antenna, having a size of $$M*N_t$$ choices
     * Direct encoding of QAM symbols, having $$\log_2(M)*N_t$$ choices
 # Citation and referencing
-To be announced as the paper will be revised and published
+Ibarra-Hernández, R.F.; Castillo-Soria, F.R.; Gutiérrez, C.A.; Del-Puerto-Flores, J.A.; Acosta-Elias, J.; Rodriguez-Abdala, V.I.; Palacios-Luengas, L. ``Efficient Deep Learning-Based Detection Scheme for MIMO Communication Systems``. _Sensors_ 2025, 25, 669. [https://doi.org/10.3390/s25030669]
